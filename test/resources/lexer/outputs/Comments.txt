@@ -1,0 +1,5 @@
+OperatorToken(*)(1:7)
+OperatorToken(/)(1:8)
+OperatorToken(*)(2:5)
+OperatorToken(/)(2:6)
+EOFToken()(22:1)

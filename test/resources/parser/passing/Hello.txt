@@ -1,0 +1,6 @@
+Trees after parsing
+object Hello {
+
+  Std.printString(("Hello " ++ "world!"))
+}
+
